@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
 
-  def welcom
+  def welcome
   end
 end
